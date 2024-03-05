@@ -26,8 +26,8 @@ namespace UMLRS{
             Console.WriteLine("Članek upraven...");
         }
         
-        public String toString(){
-            return "null";
+        public override String ToString(){
+            return ("ID: " + this.idClanek + "\nAutor: \n" + this.autorClanku + "\nNázev knihy: " + this.nadpisClanku + "\nPrefix: " + this.prefixClanku + "\nText Článku: " + this.textClanku);
         } 
     }
 }

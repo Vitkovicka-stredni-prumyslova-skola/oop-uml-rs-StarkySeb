@@ -7,6 +7,15 @@ namespace UMLRS{
         String jmeno;
         String email;
 
+        private Bonus bonus = new Bonus(0);
+        
+        public Autor(string jmeno, string prijmeni){
+            this.prijmeni = prijmeni;
+            this.jmeno = jmeno;
+            this.email = "nan";
+            this.nick = "nan";
+            this.idAutora = 1;
+        }
         public int IdAutora{
             get{return this.idAutora;}
         }
@@ -25,6 +34,10 @@ namespace UMLRS{
             get{return this.email;}
             set{this.email = value;}
         }
+        public Bonus Bonus{
+            get{return this.bonus;}
+            set{this.bonus = value;}
+        }
 
         public void Vytvorit(){
             Console.WriteLine("Autor vytvořen...");
@@ -37,8 +50,8 @@ namespace UMLRS{
             Console.WriteLine("Autor upraven...");
         }
 
-        override public  String ToString(){
-            return ("Jmeno: " + this.jmeno + "\nPříjmení: " + this.prijmeni);
+        override public String ToString(){
+            return ("  Jmeno: " + this.jmeno + "\tPříjmení: " + this.prijmeni + "\tBody: " + this.bonus );
         }
 
         

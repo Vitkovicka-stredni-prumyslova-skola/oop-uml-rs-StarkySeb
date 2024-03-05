@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-UML-RS\\UML-RS\\UML-RS.csproj": {}
+    "C:\\Users\\SebastiánStarý\\Documents\\GitHub\\cv-opr-agregace-kompozice-knihovna-StarkySeb\\oop-uml-rs-StarkySeb\\UML-RS\\UML-RS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-UML-RS\\UML-RS\\UML-RS.csproj": {
+    "C:\\Users\\SebastiánStarý\\Documents\\GitHub\\cv-opr-agregace-kompozice-knihovna-StarkySeb\\oop-uml-rs-StarkySeb\\UML-RS\\UML-RS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-UML-RS\\UML-RS\\UML-RS.csproj",
+        "projectUniqueName": "C:\\Users\\SebastiánStarý\\Documents\\GitHub\\cv-opr-agregace-kompozice-knihovna-StarkySeb\\oop-uml-rs-StarkySeb\\UML-RS\\UML-RS.csproj",
         "projectName": "UML-RS",
-        "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-UML-RS\\UML-RS\\UML-RS.csproj",
-        "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-UML-RS\\UML-RS\\obj\\",
+        "projectPath": "C:\\Users\\SebastiánStarý\\Documents\\GitHub\\cv-opr-agregace-kompozice-knihovna-StarkySeb\\oop-uml-rs-StarkySeb\\UML-RS\\UML-RS.csproj",
+        "packagesPath": "C:\\Users\\SebastiánStarý\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SebastiánStarý\\Documents\\GitHub\\cv-opr-agregace-kompozice-knihovna-StarkySeb\\oop-uml-rs-StarkySeb\\UML-RS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SebastiánStarý\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
